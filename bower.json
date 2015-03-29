@@ -1,0 +1,17 @@
+{
+  "name": "dtneulf",
+  "version": "0.1.0",
+  "authors": [
+    "TakesxiSximada <takesxi.sximada@gmail.com>"
+  ],
+  "license": "See http://www.python.org/3.4/license.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
